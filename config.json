@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysecrypt",
+        "uuid": 803390,
+        "checksum": "muct7d"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
